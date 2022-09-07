@@ -3,11 +3,11 @@
   <title>兜 叽 咕 の 小 小 世 界</title>
   
   <subtitle>兜叽咕の博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wowowo.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wowowo.top/"/>
   <updated>2022-09-07T09:16:52.045Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wowowo.top/</id>
   
   <author>
     <name>兜叽咕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://wowowo.top/posts/4a17b156.html"/>
+    <id>https://wowowo.top/posts/4a17b156.html</id>
     <published>2022-09-07T09:03:19.173Z</published>
     <updated>2022-09-07T09:16:52.045Z</updated>
     

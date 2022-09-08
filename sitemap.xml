@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wowowo.top/posts/9365.html</loc>
+    <loc>https://wowowo.top/posts/95ae.html</loc>
     
     <lastmod>2022-09-08</lastmod>
     
@@ -13,7 +13,7 @@
   <url>
     <loc>https://wowowo.top/manifest.json</loc>
     
-    <lastmod>2022-09-07</lastmod>
+    <lastmod>2022-09-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27,6 +27,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://wowowo.top/tags/Hexo/</loc>
+    <lastmod>2022-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

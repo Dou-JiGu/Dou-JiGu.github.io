@@ -6,7 +6,7 @@
   <link href="https://wowowo.top/atom.xml" rel="self"/>
   
   <link href="https://wowowo.top/"/>
-  <updated>2022-09-11T02:14:05.289Z</updated>
+  <updated>2022-09-11T02:23:05.049Z</updated>
   <id>https://wowowo.top/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Visual Studio</title>
+    <link href="https://wowowo.top/posts/5ee9.html"/>
+    <id>https://wowowo.top/posts/5ee9.html</id>
+    <published>2022-09-11T02:20:40.351Z</published>
+    <updated>2022-09-11T02:23:05.049Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="施工-ing……"><a href="#施工-ing……" class="headerlink" title="施工 ing……"></a>施工 ing……</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;施工-ing……&quot;&gt;&lt;a href=&quot;#施工-ing……&quot; class=&quot;headerlink&quot; title=&quot;施工 ing……&quot;&gt;&lt;/a&gt;施工 ing……&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    <category term="开发环境" scheme="https://wowowo.top/categories/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    
+    
+    <category term="Visual Studio" scheme="https://wowowo.top/tags/Visual-Studio/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo食用教程</title>
     <link href="https://wowowo.top/posts/95ae.html"/>
     <id>https://wowowo.top/posts/95ae.html</id>
     <published>2022-09-07T16:03:22.000Z</published>
-    <updated>2022-09-11T02:14:05.289Z</updated>
+    <updated>2022-09-11T02:19:47.593Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我の碎碎念"><a href="#我の碎碎念" class="headerlink" title="我の碎碎念"></a>我の碎碎念</h1><p>哈哈哈，终于搭建好自己的博客啦！当时看到人家的博客做的好好看，所以自己也忍不住想入手了~那么第一篇博客就纪录关于我搭建博客所使用的框架——Hexo，让我们一起共同学习，共同进步吧！从零开始的 Hexo 搭建教程！( •̀ ω •́ )y</p><h1 id="Hexo-框架介绍"><a href="#Hexo-框架介绍" class="headerlink" title="Hexo 框架介绍"></a>Hexo 框架介绍</h1><p>Hexo 是一个快速、简洁且高效的博客框架，我理解就是专门为写博客而诞生的。Hexo 支持使用 Markdown 来解析文章，是可以去主题官网选择好看的主题，并且能魔改主题文件生成个性化的静态网页，然后一键部署到网站上，可以和大家一起分享技术、心得、生活等的个人博客网站~</p><h1 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h1><p>安装 Hexo 首先有个前提，就是你得先安装好 Node.js 以及 Git，并且 Node.js 的版本不能低于 10.13（官方建议使用 12.0 及以上版本），还没安装的铁铁，这里给一个下载 Node.js 以及 Git 的跳转链接（<a href="">安装 Node.js</a>,<a href="">安装 Git</a>），安装了的铁铁可以继续往下看安装 Hexo 步骤啦~</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我の碎碎念"><a href="#我の碎碎念" class="headerlink" title="我の碎碎念"></a>我の碎碎念</h1><p>哈哈哈，终于搭建好自己的博客啦！当时看到人家的博客做的好好看，所以自己也忍不住想入手了~那么第一篇博客就纪录关于我搭建博客所使用的框架——Hexo，让我们一起共同学习，共同进步吧！从零开始的 Hexo 搭建教程！( •̀ ω •́ )y</p><h1 id="Hexo-框架介绍"><a href="#Hexo-框架介绍" class="headerlink" title="Hexo 框架介绍"></a>Hexo 框架介绍</h1><p>Hexo 是一个快速、简洁且高效的博客框架，我理解就是专门为写博客而诞生的。Hexo 支持使用 Markdown 来解析文章，是可以去主题官网选择好看的主题，并且能魔改主题文件生成个性化的静态网页，然后一键部署到网站上，制作出可以和大家一起分享技术、心得、生活等的个人博客网站~</p><h1 id="安装-Hexo"><a href="#安装-Hexo" class="headerlink" title="安装 Hexo"></a>安装 Hexo</h1><p>安装 Hexo 首先有个前提，就是你得先安装好 Node.js 以及 Git，并且 Node.js 的版本不能低于 10.13（官方建议使用 12.0 及以上版本），还没安装的铁铁，这里给一个下载 Node.js 以及 Git 的跳转链接（<a href="">安装 Node.js</a>,<a href="">安装 Git</a>），安装了的铁铁可以继续往下看安装 Hexo 步骤啦~</p>]]></content>
     
     
       

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wowowo.top/posts/5ee9.html</loc>
+    
+    <lastmod>2022-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wowowo.top/posts/95ae.html</loc>
     
     <lastmod>2022-09-11</lastmod>
@@ -44,10 +53,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://wowowo.top/tags/Visual-Studio/</loc>
+    <lastmod>2022-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://wowowo.top/categories/%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2022-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wowowo.top/categories/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

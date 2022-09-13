@@ -6,7 +6,7 @@
   <link href="https://wowowo.top/atom.xml" rel="self"/>
   
   <link href="https://wowowo.top/"/>
-  <updated>2022-09-13T01:57:44.417Z</updated>
+  <updated>2022-09-13T02:03:38.658Z</updated>
   <id>https://wowowo.top/</id>
   
   <author>
@@ -15,45 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://wowowo.top/posts/0.html"/>
-    <id>https://wowowo.top/posts/0.html</id>
-    <published>2022-09-12T08:34:59.454Z</published>
-    <updated>2022-09-13T01:57:44.417Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Node.js安装指南</title>
-    <link href="https://wowowo.top/posts/14e8.html"/>
-    <id>https://wowowo.top/posts/14e8.html</id>
-    <published>2022-09-12T03:37:22.000Z</published>
-    <updated>2022-09-12T03:40:47.894Z</updated>
-    
-    <content type="html"><![CDATA[<p>简单的说 Node.js 就是运行在服务端的 JavaScript。</p><p>Node.js 是一个基于 Chrome JavaScript 运行时建立的一个平台。</p><p>Node.js 是一个事件驱动 I/O 服务端 JavaScript 环境，基于 Google 的 V8 引擎，V8 引擎执行 Javascript 的速度非常快，性能非常好。</p><p>谁适合阅读本教程？<br>如果你是一个前端程序员，你不懂得像 PHP、Python 或 Ruby 等动态编程语言，然后你想创建自己的服务，那么 Node.js 是一个非常好的选择。</p><p>Node.js 是运行在服务端的 JavaScript，如果你熟悉 Javascript，那么你将会很容易的学会 Node.js。</p><p>当然，如果你是后端程序员，想部署一些高性能的服务，那么学习 Node.js 也是一个非常好的选择。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;简单的说 Node.js 就是运行在服务端的 JavaScript。&lt;/p&gt;
-&lt;p&gt;Node.js 是一个基于 Chrome JavaScript 运行时建立的一个平台。&lt;/p&gt;
-&lt;p&gt;Node.js 是一个事件驱动 I/O 服务端 JavaScript 环境，基于 Goo</summary>
-      
-    
-    
-    
-    <category term="环境" scheme="https://wowowo.top/categories/%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="Node.js 环境" scheme="https://wowowo.top/tags/Node-js-%E7%8E%AF%E5%A2%83/"/>
-    
-  </entry>
   
   <entry>
     <title>Hexo食用教程</title>

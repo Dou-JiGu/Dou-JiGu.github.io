@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://wowowo.top/posts/f82e.html</loc>
-    
-    <lastmod>2022-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wowowo.top/posts/95ae.html</loc>
     
     <lastmod>2022-10-18</lastmod>
@@ -83,7 +74,7 @@
 
   
   <url>
-    <loc>https://wowowo.top/tags/Hexo/</loc>
+    <loc>https://wowowo.top/tags/%E7%A0%81%E5%86%9C%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -97,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://wowowo.top/tags/%E7%A0%81%E5%86%9C%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://wowowo.top/tags/Hexo/</loc>
     <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -106,7 +97,7 @@
 
   
   <url>
-    <loc>https://wowowo.top/categories/%E6%A1%86%E6%9E%B6/</loc>
+    <loc>https://wowowo.top/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -120,7 +111,7 @@
   </url>
   
   <url>
-    <loc>https://wowowo.top/categories/%E7%A0%81%E5%86%9C%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://wowowo.top/categories/%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2022-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
